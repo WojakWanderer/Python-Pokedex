@@ -30,3 +30,18 @@ Simply download the icon.ico file and main.py, then run the script in Visual Stu
 
 
 
+
+## Roadmap
+
+- Add ability to view abilites
+
+- Add ability to view gym badges
+
+- Add ability to view items
+
+- Add ability to view moves
+
+- Add ability to view EV's
+
+- Add tabs 
+
