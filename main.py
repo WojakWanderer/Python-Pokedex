@@ -68,7 +68,7 @@ class App(customtkinter.CTk):
             weight_in_kg = pokemon_data['weight'] / 10
             self.lblname.configure(text=f"Name: {pokemon_data['name'].capitalize()}")
             self.lblid.configure(text=f"ID: {pokemon_data['id']}")
-            self.lblheight.configure(text=f"Height: {weight_in_kg}m")
+            self.lblheight.configure(text=f"Height: {height_in_m}m")
             self.lblweight.configure(text=f"Weight: {weight_in_kg}kg")
 
         else:
